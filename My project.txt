@@ -1,8 +1,0 @@
-line1 bangalore
-line2 bangalore
-line 3 bangalore
-line 4 bangalore
-line 5 bangalore
-line 6 bangalore
-line 7 mumbai
-8 line mumbai
